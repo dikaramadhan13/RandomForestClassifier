@@ -5,5 +5,5 @@ Project dalam rangka mengerjakan Ujian Akhir Semester menggunakan Python 3 dan a
 Dataset dibuat menggunakan file .csv (excel) dengan data efektifitas belajar mahasiswa dengan berbagai umur dan jam mulai pelajaran
 
 Nama : Dika Ramadhan <br>
-NIM : 171011402134
+NIM : 171011402134 <br>
 Kelas : 07TPLE003
