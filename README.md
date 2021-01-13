@@ -6,3 +6,4 @@ Dataset dibuat menggunakan file .csv (excel) dengan data efektifitas belajar mah
 
 Nama : Dika Ramadhan <br>
 NIM : 171011402134
+Kelas : 07TPLE003
